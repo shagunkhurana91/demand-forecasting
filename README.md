@@ -15,7 +15,7 @@ Additional features include:
 ---
 
 ## 🎯 Live Demo
-Try the app here: [**Industrial Spare Parts Forecasting – Streamlit Cloud**]([https://your-app-name.streamlit.app](https://demand-forecasting-ivylsedrxn4b573y4z9x5v.streamlit.app/))
+Try the app here: [**Industrial Spare Parts Forecasting – Streamlit Cloud**] (https://demand-forecasting-ivylsedrxn4b573y4z9x5v.streamlit.app/)
 
 ---
 
